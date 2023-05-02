@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemOfTaks", "SistemOfTaks\SistemOfTaks.csproj", "{500939C3-E47D-4D5A-83B2-3768C5E02101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500939C3-E47D-4D5A-83B2-3768C5E02101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500939C3-E47D-4D5A-83B2-3768C5E02101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500939C3-E47D-4D5A-83B2-3768C5E02101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500939C3-E47D-4D5A-83B2-3768C5E02101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292412A6-3786-4CB4-BF21-CA41A58D186E}
+	EndGlobalSection
+EndGlobal
